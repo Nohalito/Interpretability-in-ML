@@ -25,9 +25,14 @@ cd venv/Scripts && . activate && cd ../..
 
 Enjoy all of our notebook
 
-## 2°/ Structure :
+## 2°/ Where to look at :
 
-- Our most important outputs for the report understanding are located at `notebooks/03_Evaluation_Noa.ipynb` (Grad_CAM multi picture analysis) and at `outputs/confusion_matrices/ResNet18.png`
+Our most important outputs for the report understanding are :
+
+- `notebooks/03_Evaluation_Noa.ipynb` (Grad_CAM multi picture analysis)
+- `outputs/confusion_matrices/ResNet18.png` (Illustrate our overfitting model).
+
+## 3°/ Global Architecture :
 
 ```
 Interpretability-in-ML
