@@ -9,7 +9,7 @@ from pathlib import Path
 # RANDOM_SEED = 42 # As foretold in the book of truth, 42 is the answer to everything
 
 # 02 : Modeling
-N_EPOCH = 2
+N_EPOCH = 10
 MODEL_DIC = {
     'VGG16' : { # 0
         'Size' : '550MB',

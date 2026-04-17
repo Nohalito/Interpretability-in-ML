@@ -1,14 +1,14 @@
 {
     "landbird": {
-        "accuracy": 0.7656,
-        "recall": 0.8942,
-        "precision": 0.7927,
-        "f1": 0.8404
+        "accuracy": 0.8164,
+        "recall": 0.9146,
+        "precision": 0.8428,
+        "f1": 0.8772
     },
     "waterbird": {
-        "accuracy": 0.7656,
-        "recall": 0.4794,
-        "precision": 0.6706,
-        "f1": 0.5591
+        "accuracy": 0.8164,
+        "recall": 0.5672,
+        "precision": 0.7235,
+        "f1": 0.6359
     }
 }
